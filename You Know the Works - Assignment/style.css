@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+  background-size: cover;
+  background-color: #ff8fab;
+  padding: 10px;
+  width: 576px;
+  color: #231942;
+}
+
+.line {
+  width: 15px;
+}
+
+.address_paragraph {
+  color: #070748;
+  font-family: Roboto;
+  font-size: 16px;
+  padding-left: 30px;
+}
+
+.main_heading {
+  padding-top: 10px;
+  font-size: 25px;
+  color: #070748;
+}
+
+.icon {
+  height: 100px;
+  padding-top: 30px;
+  padding-left: 15px;
+  width: 100px;
+}
+
+.icon_size {
+  height: 50px;
+  font-size: 50px;
+}
+
+.heading_section {
+  width: 180px;
+  padding: 5px;
+}
+
+.hr-line {
+  width: 90%;
+  height: 4px;
+  color: #070748;
+}
+
+.art_name {
+  font-size: 15px;
+  color: #070748;
+  font-family: Roboto;
+}
+
+.address_mini {
+  font-size: 14px;
+  padding-top: 10px;
+}
+
+.icon_heading {
+  color: #070748;
+  font-size: 13px;
+  padding-right: 5px;
+  font-weight: bold;
+}
+
+.years_of_achivements {
+  color: #070748;
+  padding-bottom: 5px;
+  font-size: 20px;
+}
+
+.padding_left {
+  padding-right: 1px;
+}
+
+.exp_heading {
+  font-size: 14px;
+  color: #070748;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.exp_paragraph {
+  font-size: 12px;
+  color: #070748;
+}
+
+.years {
+  height: 40px;
+  width: 150px;
+}
+
+.ex_padding {
+  padding-bottom: 32px;
+  color: #070748;
+  font-weight: bold;
+}
+
+.ex_padding2 {
+  color: #070748;
+  font-weight: bold;
+}
+
+.ex_padding3 {
+  color: #070748;
+  font-weight: bold;
+  padding-bottom: 5px;
+  font-size: 12px;
+}
+
+.boxes {
+  padding-right: 18px;
+  padding-left: 15px;
+}
+
+.line2 {
+  border-left: 3px solid #070748;
+  height: 160px;
+  position: absolute;
+  margin-left: 50%;
+  top: 20px;
+}
